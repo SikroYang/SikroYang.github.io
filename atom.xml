@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://SikroYang.github.io/</id>
+    <title>静静的风</title>
+    <updated>2019-06-27T02:05:15.596Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://SikroYang.github.io/"/>
+    <link rel="self" href="https://SikroYang.github.io//atom.xml"/>
+    <subtitle>^_^</subtitle>
+    <logo>https://SikroYang.github.io//images/avatar.png</logo>
+    <icon>https://SikroYang.github.io//favicon.ico</icon>
+    <rights>All rights reserved 2019, 静静的风</rights>
+    <entry>
+        <title type="html"><![CDATA[这是什么情况]]></title>
+        <id>https://SikroYang.github.io//post/zs</id>
+        <link href="https://SikroYang.github.io//post/zs">
+        </link>
+        <updated>2019-06-27T01:48:21.000Z</updated>
+        <content type="html"><![CDATA[<p>为什么生成不了??</p>
+]]></content>
+    </entry>
+</feed>
